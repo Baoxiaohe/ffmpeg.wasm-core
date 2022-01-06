@@ -1,3 +1,6 @@
+# 声明
+代码fork
+
 FFmpeg.wasm Core
 ================
 
